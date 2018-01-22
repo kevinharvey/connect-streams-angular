@@ -1,0 +1,10 @@
+
+.container {
+  padding: 30px;
+}
+#connectContainer {
+  background: white;
+  z-index: 9999;
+  height: 465px;
+  width: 320px !important;
+}
